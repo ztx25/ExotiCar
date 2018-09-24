@@ -318,7 +318,7 @@ a.active {
   font-family: HN;
 }
 
-#first {
+.first {
   color: #ffffff;
   text-transform: uppercase;
   font-weight: 300;
