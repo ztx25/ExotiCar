@@ -1,15 +1,15 @@
 @font-face {
-  src: url("../fonts/HelveticaNeue/HelveticaNeue.ttf");
+  src: url("../fonts/HelveticaNeue.ttf");
   font-family: HN;
 }
 
 @font-face {
-  src: url("../fonts/HelveticaNeue/HelveticaNeue-Light.ttf");
+  src: url("../fonts/HelveticaNeue-Light.ttf");
   font-family: HL;
 }
 
 @font-face {
-  src: url("../fonts/Lato/LatoBold/LatoBold.ttf");
+  src: url("../fonts/LatoBold.ttf");
   font-family: LB;
 }
 
